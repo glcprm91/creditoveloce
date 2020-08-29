@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.com"
+baseURL = "https://creditoveloce.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "icelab-hugo"
