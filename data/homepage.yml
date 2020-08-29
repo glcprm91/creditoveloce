@@ -15,7 +15,7 @@ service:
   enable : true
   bg_image : "images/shape-big.png"
   subtitle : "What We Do"
-  title : "Design Is How<br>Things Work"
+  title : "Finanza agevolata<br>Gestione finanziaria"
   service_item:
     # service item loop
     - name : "UX & UI Design"
@@ -26,7 +26,7 @@ service:
     - name : "PSD to HTML"
       icon : "images/icon-2.svg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
-      
+
     # service item loop
     - name : "Wordpress"
       icon : "images/icon-3.svg"
@@ -53,13 +53,13 @@ testimonial:
       image : "images/testimonial/quote-person.png"
       designation : "CEO, Align org"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      
+
     # testimonial item loop
     - name : "Good Win"
       image : "images/testimonial/quote-person.png"
       designation : "CEO, Align org"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      
+
     # testimonial item loop
     - name : "Good Win"
       image : "images/testimonial/quote-person.png"
