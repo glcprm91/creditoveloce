@@ -2,33 +2,33 @@
 banner:
   enable : true
   bg_image: "images/hero/hero-bg-2.jpg"
-  title : "Creative<br>Studio"
+  title : "Credito veloce"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
             dolore magna aliqua."
   button:
     enable : true
-    label : "Our Works"
+    label : "Scopri di più"
     link : "works"
 
 ################### Service #################################
 service:
   enable : true
   bg_image : "images/shape-big.png"
-  subtitle : "What We Do"
-  title : "Finanza agevolata<br>Gestione finanziaria"
+  subtitle : "QUELLO CHE FACCIAMO"
+  title : "I nostri servizi"
   service_item:
     # service item loop
-    - name : "UX & UI Design"
+    - name : "Controllo di gestione"
       icon : "images/icon-1.svg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
 
     # service item loop
-    - name : "PSD to HTML"
+    - name : "Mediazione"
       icon : "images/icon-2.svg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
 
     # service item loop
-    - name : "Wordpress"
+    - name : "Finanza agevolata"
       icon : "images/icon-3.svg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
 
@@ -36,8 +36,8 @@ service:
 ############################# portfolio ############################
 portfolio:
   enable : true
-  subtitle : "Portfolio"
-  title : "Our Recent Works"
+  subtitle : "Approfondimenti"
+  title : "Il nostro punto di vista"
 
   # portfolio item comes from `content/work/` folder
 
@@ -70,9 +70,9 @@ testimonial:
 ################# call to action ##################################3
 call_to_action:
   enable : true
-  title : "Interseted In Teaming Up?"
+  title : "Sei interessato?"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus asperiores dignissimos cupiditate! Necessitatibus distinctio molestiae omnis tempora facere in cum?"
   button:
     enable : true
-    label : "Let's Chat"
+    label : "Parliamone"
     link : "contact"
