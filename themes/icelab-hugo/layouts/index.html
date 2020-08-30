@@ -12,8 +12,9 @@
           <p class="text-white" data-aos="fade-up" data-aos-delay="200">{{ .content | markdownify }}</p>
           {{ if .button.enable }}
           {{ with .button }}
-          <a href="{{ .link | absURL }}" class="btn btn-primary" data-aos="fade-up"
-            data-aos-delay="200">{{ .label }}</a>
+          <!-- <a href="{{ .link | absURL }}" class="btn btn-primary" data-aos="fade-up"
+            data-aos-delay="200">{{ .label }}</a> -->
+          <a href="#services" class="btn btn-primary" data-aos="fade-up" data-aos-delay="200">{{ .label }}</a>
           {{ end }}
           {{ end }}
         </div>
@@ -106,17 +107,17 @@
 {{ end }}
 <!-- History Section End -->
 
-<!-- Philosophy Section Start -->
+<!-- La nostra idea Section Start -->
 {{ if .Site.Data.about.philosophy.enable }}
 {{ with .Site.Data.about.philosophy }}
 <section class="philosophy section">
   <div class="container">
     <div class="row">
-      <!-- <div class="col-lg-6">
+      <div class="col-lg-6">
         <div class="philosophy-image mb-5 mb-lg-0">
           <img src="{{ .image | absURL}}" alt="philosophy" class="w-100">
         </div>
-      </div> -->
+      </div>
       <div class="col-lg-5 align-self-center ml-auto">
         <div class="philosophy-content">
           <!-- section title -->
@@ -132,7 +133,7 @@
 </section>
 {{ end }}
 {{ end }}
-<!-- Philosophy Section End -->
+<!-- La nostra idea Section End -->
 
 <!-- Team Section Start -->
 {{ if .Site.Data.about.team.enable }}
@@ -203,7 +204,7 @@
       {{ end }}
 
       <div class="col-12 mt-5 text-center">
-        <a href="/works" class="btn btn-primary">Altri articoli</a>
+        <a href="/works" class="btn btn-primary">Altri approfondimenti</a>
       </div>
     </div>
   </div>
@@ -217,7 +218,7 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-lg-3 ml-lg-auto">
-        
+
         <div class="section-title">
           <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
           <h1><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify }}</span></h1>

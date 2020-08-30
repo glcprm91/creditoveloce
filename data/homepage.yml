@@ -8,7 +8,7 @@ banner:
   button:
     enable : true
     label : "Scopri di più"
-    link : "works"
+    link : "#services"
 
 ################### Service #################################
 service:
@@ -37,7 +37,7 @@ service:
 portfolio:
   enable : true
   subtitle : "Approfondimenti"
-  title : "Il nostro punto di vista"
+  title : "Il nostro punto<br>di vista"
 
   # portfolio item comes from `content/work/` folder
 
@@ -74,5 +74,5 @@ call_to_action:
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus asperiores dignissimos cupiditate! Necessitatibus distinctio molestiae omnis tempora facere in cum?"
   button:
     enable : true
-    label : "Parliamone"
+    label : "Parliamone insieme"
     link : "contact"

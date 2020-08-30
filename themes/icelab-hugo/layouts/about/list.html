@@ -2,41 +2,6 @@
 
 {{ partial "page-title.html" . }}
 
-<!-- History Section Start -->
-{{ if .Site.Data.about.history.enable }}
-{{ with .Site.Data.about.history }}
-<section class="history section">
-  <div class="shape-big">
-    <img src="{{`images/shape-big.png` | absURL}}" class="img-fluid" alt="big-shape">
-  </div>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-6 align-self-center">
-        <!-- History Content -->
-        <div class="history-content">
-          <!-- section title -->
-          <div class="section-title">
-            <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
-            <h2><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify }}</span></h2>
-          </div>
-          <div class="content">
-            {{ .content | markdownify}}
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-5 ml-auto">
-        <!-- History Image -->
-        <div class="history-image">
-          <img src="{{ .image | absURL}}" class="w-100" alt="history">
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-<!-- History Section End -->
-
 <!-- Team Section Start -->
 {{ if .Site.Data.about.team.enable }}
 {{ with .Site.Data.about.team }}
@@ -73,6 +38,41 @@
 {{ end }}
 {{ end }}
 <!-- Team Section End -->
+
+<!-- History Section Start -->
+{{ if .Site.Data.about.history.enable }}
+{{ with .Site.Data.about.history }}
+<section class="history section">
+  <div class="shape-big">
+    <img src="{{`images/shape-big.png` | absURL}}" class="img-fluid" alt="big-shape">
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 align-self-center">
+        <!-- History Content -->
+        <div class="history-content">
+          <!-- section title -->
+          <div class="section-title">
+            <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
+            <h2><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify }}</span></h2>
+          </div>
+          <div class="content">
+            {{ .content | markdownify}}
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-5 ml-auto">
+        <!-- History Image -->
+        <div class="history-image">
+          <img src="{{ .image | absURL}}" class="w-100" alt="history">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- History Section End -->
 
 <!-- Philosophy Section Start -->
 {{ if .Site.Data.about.philosophy.enable }}
