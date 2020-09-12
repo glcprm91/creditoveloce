@@ -10,11 +10,11 @@ banner:
     label : "Scopri di più"
     link : "#services"
 
-################### Service #################################
+################### Service ########################
 service:
   enable : true
   bg_image : "images/shape-big.png"
-  subtitle : "QUELLO CHE FACCIAMO"
+  subtitle : "QUELLO CHE OFFRIAMO"
   title : "I nostri servizi"
   service_item:
     # service item loop
@@ -30,6 +30,28 @@ service:
     # service item loop
     - name : "Finanza agevolata"
       icon : "images/icon-3.svg"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+
+################### Professionalita ########################
+pro:
+  enable : true
+  bg_image : "images/shape-big.png"
+  subtitle : "QUELLO CHE FACCIAMO"
+  title : "Le nostre competenze"
+  service_item:
+    # service item loop
+    - name : "Mediatore finanziario"
+      icon : "images/ceo.svg"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+
+    # service item loop
+    - name : "Commercialista"
+      icon : "images/businessman.svg"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+
+    # service item loop
+    - name : "Avvocato"
+      icon : "images/person.svg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
 
 
@@ -66,6 +88,16 @@ testimonial:
       designation : "CEO, Align org"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
+################# newsletter ##################################3
+newsletter:
+  enable : true
+  title : "Non perderti neanche un articolo"
+  content : "Iscriviti alla newsletter di creditoveloce.com"
+  button:
+    enable : true
+    label : "Iscrivimi"
+    link : "contact"
+
 
 ################# call to action ##################################3
 call_to_action:
@@ -76,3 +108,4 @@ call_to_action:
     enable : true
     label : "Parliamone insieme"
     link : "contact"
+
