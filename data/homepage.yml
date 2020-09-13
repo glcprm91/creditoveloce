@@ -39,17 +39,17 @@ pro:
   subtitle : "QUELLO CHE FACCIAMO"
   title : "Le nostre competenze"
   service_item:
-    # service item loop
+    # professionalità item loop
     - name : "Mediatore finanziario"
       icon : "images/ceo.svg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
 
-    # service item loop
+    # professionalità item loop
     - name : "Commercialista"
       icon : "images/businessman.svg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
 
-    # service item loop
+    # professionalità item loop
     - name : "Avvocato"
       icon : "images/person.svg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
@@ -59,7 +59,7 @@ pro:
 portfolio:
   enable : true
   subtitle : "Approfondimenti"
-  title : "Il nostro punto<br>di vista"
+  title : "Il nostro punto di vista"
 
   # portfolio item comes from `content/work/` folder
 

@@ -5,10 +5,10 @@ theme = "icelab-hugo"
 title = "creditoveloce"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.main]]
-URL = "about"
-name = "Team"
-weight = 2
+# [[menu.main]]
+# URL = "about"
+# name = "Team"
+# weight = 2
 [[menu.main]]
 URL = "works"
 name = "Approfondimenti"
