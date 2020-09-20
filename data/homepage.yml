@@ -19,22 +19,17 @@ service:
     # service item loop
     - name: "Finanza agevolata"
       icon: "images/icon-1.svg"
-      content: "Molti investimenti sono potenzialmente soggetti a contributo. Per questo, essere informati su tutte le occasioni che la Finanza Agevolata crea è una sfida per tutte le realtà economiche che vogliono essere competitive e redditive. Ma soprattutto bisogna avere il know how per ottenerli quei finanziamenti e per pianificare poi gli investimenti.  Alle aziende nostre clienti offriamo proprio questo. E lo facciamo attraverso strumenti altamente innovativi e personalizzati in base alla specifica realtà aziendale, individuando tutte le agevolazioni disponibili (fondi perduto e/o crediti agevolati e/o garanzie) in base al settore, le dimensioni dell’azienda, e ai tipi di investimento che questa intende effettuare o ha già effettuato negl’ultimi tre anni."
+      content: "Molti investimenti sono potenzialmente soggetti a contributo. Per questo, essere informati su tutte le occasioni che la Finanza Agevolata crea è una sfida per tutte le realtà economiche che vogliono essere competitive e redditive. Ma soprattutto, è necessario mettere in campo il know how per ottenere quegli stessi finanziamenti e, come step successivo, per pianificare poi gli investimenti. È proprio questo quello che offriamo alle Aziende nostre clienti e lo facciamo con metodi altamente innovativi e personalizzati in base alla specifica realtà aziendale che abbiamo di fronte."
 
     # service item loop
-    - name: "Consulenza finanziaria"
+    - name: "Consulenza finanziaria a 360°"
       icon: "images/icon-2.svg"
-      content: "Proponiamo alle imprese una consulenza a 360° in campo finanziario, studiando per i nostri clienti le soluzioni più adatte e flessibili, con competenza e rapidità
-L’imprenditore viene affiancato attivamente nei rapporti con gli istituti di credito e la consulenza ha l’obiettivo di verificare l'impatto delle scelte sugli equilibri economico-finanziari e patrimoniali, e di assisterlo nella corretta gestione finanziaria aziendale.
-Una corretta ed adeguata consulenza finanziaria permette notevoli risparmi in termini di costi ed una maggiore efficienza del rapporto banca-impresa.
-"
+      content: "Studiamo per le nostre Aziende clienti le soluzioni più adatte e flessibili per ottenere i finanziamenti desiderati, con competenza e velocità! Affianchiamo l’imprenditore dall’inizio alla fine: dal rapporto con gli istituti di credito all’assistenza nella corretta gestione del finanziamento acquisito, passando per una valutazione dell’impatto delle scelte sugli equilibri economico-finanziari e patrimoniali dell’Azienda."
 
     # service item loop
     - name: "Controllo di gestione"
       icon: "images/icon-3.svg"
-      content: "Dal controllo di gestione orientato al passato occorre spostarsi verso un sistema orientato prevalentemente al futuro. Infatti, in un ambiente competitivo, soggetto a forti turbolenze, i sistemi tradizionali di contabilità (generale, analitica e industriale) si trovano a fornire unicamente informazioni su accadimenti ormai passati e, pertanto, in ritardo, quando ormai l'opportunità e l'efficacia di azioni correttive è notevolmente diminuita, se non vanificata.
-Oggi, qualsiasi azienda anche di piccole e medie dimensioni ha bisogno di anticipare, per quanto possibile, gli svolgimenti futuri della gestione, predisponendo idonee contromisure verso le conseguenze potenzialmente negative di determinati eventi.
-"
+      content: "In un ambiente competitivo e soggetto a forti turbolenze, i sistemi tradizionali di contabilità (generale, analitica e industriale) appaiono ormai limitati perché tengono esclusivamente conto di eventi che si sono già verificati (es ...). Oggi, invece, qualsiasi azienda ha bisogno di anticipare, per quanto possibile, gli svolgimenti futuri della gestione, predisponendo fin da subito azioni correttive idonee a contrastare i potenziali rischi congiunturali."
 
 ################### Professionalita ########################
 pro:
@@ -44,19 +39,18 @@ pro:
   title: "Le nostre competenze"
   service_item:
     # professionalità item loop
-    - name: "Mediatore finanziario"
-      icon: "images/ceo.svg"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    - name: "Dirigente bancario"
+      icon: "images/businessman.png"
+      content: "..."
 
     # professionalità item loop
-    - name: "Commercialista"
-      icon: "images/businessman.svg"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    - name: "Ingegnere gestionale"
+      icon: "images/ingegnere.png"
+      content: "Esperto in finanza agevolata"
 
-    # professionalità item loop
-    - name: "Mediatore finanziario"
-      icon: "images/person.svg"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    - name: "Analista e consulente finanziario"
+      icon: "images/desk.png"
+      content: "Esperto in finanza agevolata"
 
 ############################# portfolio ############################
 portfolio:
