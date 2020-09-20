@@ -2,7 +2,7 @@
 
 {{ partial "page-title.html" . }}
 
-<!-- Team Section Start -->
+<!-- Team Section Start
 {{ if .Site.Data.about.team.enable }}
 {{ with .Site.Data.about.team }}
 <section class="team section">
@@ -19,13 +19,13 @@
       {{ range .team_member }}
       <div class="col-lg-4 col-md-6">
         <!-- Team Member -->
-        <div class="team-member">
+       <!--  <div class="team-member"> -->
           <!-- Member Image -->
-          <div class="team-member-image" style="background-image: url('{{ .image_bg | absURL}}');">
+          <!-- <div class="team-member-image" style="background-image: url('{{ .image_bg | absURL}}');">
             <img src="{{ .image | absURL}}" alt="team-member-image">
-          </div>
+          </div> -->
           <!-- Member Content -->
-          <div class="team-member-content text-center">
+<!--           <div class="team-member-content text-center">
             <h6 class="sm">{{ .name | markdownify}}</h6>
             <span>{{ .designation | markdownify }}</span>
           </div>
@@ -36,7 +36,7 @@
   </div>
 </section>
 {{ end }}
-{{ end }}
+{{ end }} --> -->
 <!-- Team Section End -->
 
 <!-- History Section Start -->

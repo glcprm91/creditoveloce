@@ -74,6 +74,36 @@
 {{ end }}
 <!-- I nostri servizi -->
 
+
+<!-- Chi siamo -->
+{{ if .Site.Data.about.aboutus.enable }}
+{{ with .Site.Data.about.aboutus }}
+<section class="philosophy section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6">
+        <div class="philosophy-image mb-5 mb-lg-0">
+          <img src="{{ .image | absURL}}" alt="philosophy" class="w-100">
+        </div>
+      </div>
+      <div class="col-lg-5 align-self-center ml-auto">
+        <div class="philosophy-content">
+          <!-- section title -->
+          <div class="section-title">
+            <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
+            <h2><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify}}</h2>
+          </div>
+          <div class="content"><p>{{ .content | markdownify }}</p></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+<!-- Chi siamo end-->
+
 <!-- Professionalità Section -->
 {{ if .Site.Data.homepage.service.enable }}
 {{ with .Site.Data.homepage.pro }}

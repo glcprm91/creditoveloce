@@ -1,7 +1,7 @@
-#########################3 history ############################
+#########################3 history -history-image.png ############################
 history:
   enable : true
-  image: "images/history-image.png"
+  image: "images/piantina 1.jpg"
   subtitle : "MISSION"
   title : "Il nostro obiettivo"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liquam fina water. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor in reprehenderit. in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -9,6 +9,14 @@ history:
 
   Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium"
 
+######################### aboutus ############################
+
+aboutus:
+  enable : true
+  image: "images/la nostra squadra.jpg"
+  subtitle : "CHI SIAMO"
+  title : "La nostra squadra"
+  content : "Un Team di esperti nei diversi settori indicati che offrono alla clientela una funzionale consulenza grazie alla quale sarà possibile pianificare e soddisfare le diverse esigenze, assicurando attraverso un’attenta analisi le migliori scelte finanziarie."
 
 ################################ Team ###########################
 team:
@@ -40,7 +48,7 @@ philosophy:
   enable : true
   subtitle : "L'idea"
   title : "Da dove nasce l'idea"
-  image : "images/idea-image.jpg"
+  image : "images/rubick.jpg"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liquam fina water. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor in reprehenderit. in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 

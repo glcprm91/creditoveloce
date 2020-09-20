@@ -1,111 +1,112 @@
 ######################## Banner ############################
 banner:
-  enable : true
+  enable: true
   bg_image: "images/hero/hero-bg-2.jpg"
-  title : "Credito veloce"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua."
+  title: "Credito veloce"
+  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   button:
-    enable : true
-    label : "Scopri di più"
-    link : "#services"
+    enable: true
+    label: "Scopri di più"
+    link: "#services"
 
 ################### Service ########################
 service:
-  enable : true
-  bg_image : "images/shape-big.png"
-  subtitle : "QUELLO CHE OFFRIAMO"
-  title : "I nostri servizi"
+  enable: true
+  bg_image: "images/shape-big.png"
+  subtitle: "QUELLO CHE OFFRIAMO"
+  title: "I nostri servizi"
   service_item:
     # service item loop
-    - name : "Controllo di gestione"
-      icon : "images/icon-1.svg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    - name: "Finanza agevolata"
+      icon: "images/icon-1.svg"
+      content: "Molti investimenti sono potenzialmente soggetti a contributo. Per questo, essere informati su tutte le occasioni che la Finanza Agevolata crea è una sfida per tutte le realtà economiche che vogliono essere competitive e redditive. Ma soprattutto bisogna avere il know how per ottenerli quei finanziamenti e per pianificare poi gli investimenti.  Alle aziende nostre clienti offriamo proprio questo. E lo facciamo attraverso strumenti altamente innovativi e personalizzati in base alla specifica realtà aziendale, individuando tutte le agevolazioni disponibili (fondi perduto e/o crediti agevolati e/o garanzie) in base al settore, le dimensioni dell’azienda, e ai tipi di investimento che questa intende effettuare o ha già effettuato negl’ultimi tre anni."
 
     # service item loop
-    - name : "Mediazione"
-      icon : "images/icon-2.svg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    - name: "Consulenza finanziaria"
+      icon: "images/icon-2.svg"
+      content: "Proponiamo alle imprese una consulenza a 360° in campo finanziario, studiando per i nostri clienti le soluzioni più adatte e flessibili, con competenza e rapidità
+L’imprenditore viene affiancato attivamente nei rapporti con gli istituti di credito e la consulenza ha l’obiettivo di verificare l'impatto delle scelte sugli equilibri economico-finanziari e patrimoniali, e di assisterlo nella corretta gestione finanziaria aziendale.
+Una corretta ed adeguata consulenza finanziaria permette notevoli risparmi in termini di costi ed una maggiore efficienza del rapporto banca-impresa.
+"
 
     # service item loop
-    - name : "Finanza agevolata"
-      icon : "images/icon-3.svg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    - name: "Controllo di gestione"
+      icon: "images/icon-3.svg"
+      content: "Dal controllo di gestione orientato al passato occorre spostarsi verso un sistema orientato prevalentemente al futuro. Infatti, in un ambiente competitivo, soggetto a forti turbolenze, i sistemi tradizionali di contabilità (generale, analitica e industriale) si trovano a fornire unicamente informazioni su accadimenti ormai passati e, pertanto, in ritardo, quando ormai l'opportunità e l'efficacia di azioni correttive è notevolmente diminuita, se non vanificata.
+Oggi, qualsiasi azienda anche di piccole e medie dimensioni ha bisogno di anticipare, per quanto possibile, gli svolgimenti futuri della gestione, predisponendo idonee contromisure verso le conseguenze potenzialmente negative di determinati eventi.
+"
 
 ################### Professionalita ########################
 pro:
-  enable : true
-  bg_image : "images/shape-big.png"
-  subtitle : "QUELLO CHE FACCIAMO"
-  title : "Le nostre competenze"
+  enable: true
+  bg_image: "images/shape-big.png"
+  subtitle: "QUELLO CHE FACCIAMO"
+  title: "Le nostre competenze"
   service_item:
     # professionalità item loop
-    - name : "Mediatore finanziario"
-      icon : "images/ceo.svg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    - name: "Mediatore finanziario"
+      icon: "images/ceo.svg"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
 
     # professionalità item loop
-    - name : "Commercialista"
-      icon : "images/businessman.svg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    - name: "Commercialista"
+      icon: "images/businessman.svg"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
 
     # professionalità item loop
-    - name : "Avvocato"
-      icon : "images/person.svg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
-
+    - name: "Mediatore finanziario"
+      icon: "images/person.svg"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
 
 ############################# portfolio ############################
 portfolio:
-  enable : true
-  subtitle : "Approfondimenti"
-  title : "Il nostro punto di vista"
+  enable: true
+  subtitle: "Approfondimenti"
+  title: "Il nostro punto di vista"
+
 
   # portfolio item comes from `content/work/` folder
 
-
 ############################ testimonial ###########################
 testimonial:
-  enable : true
-  subtitle : "Testimonials"
-  title : "LoveQuote <br> From Clients"
+  enable: true
+  subtitle: "Testimonials"
+  title: "LoveQuote <br> From Clients"
   testimonial_item:
     # testimonial item loop
-    - name : "Good Win"
-      image : "images/testimonial/quote-person.png"
-      designation : "CEO, Align org"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - name: "Good Win"
+      image: "images/testimonial/quote-person.png"
+      designation: "CEO, Align org"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
     # testimonial item loop
-    - name : "Good Win"
-      image : "images/testimonial/quote-person.png"
-      designation : "CEO, Align org"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - name: "Good Win"
+      image: "images/testimonial/quote-person.png"
+      designation: "CEO, Align org"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
     # testimonial item loop
-    - name : "Good Win"
-      image : "images/testimonial/quote-person.png"
-      designation : "CEO, Align org"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - name: "Good Win"
+      image: "images/testimonial/quote-person.png"
+      designation: "CEO, Align org"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 ################# newsletter ##################################3
 newsletter:
-  enable : true
-  title : "Non perderti neanche un articolo"
-  content : "Iscriviti alla newsletter di creditoveloce.com"
+  enable: true
+  title: "Non perderti neanche un articolo"
+  content: "Iscriviti alla newsletter di creditoveloce.com"
   button:
-    enable : true
-    label : "Iscrivimi"
-    link : "contact"
-
+    enable: true
+    label: "Iscrivimi"
+    link: "contact"
 
 ################# call to action ##################################3
 call_to_action:
-  enable : true
-  title : "Sei interessato?"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus asperiores dignissimos cupiditate! Necessitatibus distinctio molestiae omnis tempora facere in cum?"
+  enable: true
+  title: "Sei interessato?"
+  content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus asperiores dignissimos cupiditate! Necessitatibus distinctio molestiae omnis tempora facere in cum?"
   button:
-    enable : true
-    label : "Parliamone insieme"
-    link : "contact"
-
+    enable: true
+    label: "Parliamone insieme"
+    link: "contact"
