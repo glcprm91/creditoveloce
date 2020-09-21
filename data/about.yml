@@ -1,7 +1,7 @@
 #########################3 history -history-image.png ############################
 history:
   enable : true
-  image: "images/piantina 1.jpg"
+  image: "images/piantina 2.jpg"
   subtitle : "MISSION"
   title : "Il nostro obiettivo"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liquam fina water. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor in reprehenderit. in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -16,7 +16,7 @@ aboutus:
   image: "images/la nostra squadra.jpg"
   subtitle : "CHI SIAMO"
   title : "La nostra squadra"
-  content : "Un Team di esperti nei diversi settori indicati che offrono alla clientela una funzionale consulenza grazie alla quale sarà possibile pianificare e soddisfare le diverse esigenze, assicurando attraverso un’attenta analisi le migliori scelte finanziarie."
+  content : "Un team di esperti al servizio delle aziende che sentono il bisogno di compiere le loro migliori scelte finanziarie. Oltre alla nostra professionalità, mettiamo a vostra disposizione una pianificazione scrupolosa e approfondite analisi di scenario. Credito Veloce è formata, infatti, da revisori dei conti, un dirigente bancario e un ingegnere gestionale esperto in finanzia agevolata."
 
 ################################ Team ###########################
 team:

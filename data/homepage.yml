@@ -2,8 +2,8 @@
 banner:
   enable: true
   bg_image: "images/hero/hero-bg-2.jpg"
-  title: "Credito veloce"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  title: "Credito veloce!"
+  content: "Aiutiamo le Aziende a crescere, cercando e gestendo i finanziamenti più adatti ai loro progetti. L'obiettivo è quello di puntare sul risparmio in termini di costi e sull'efficienza del rapporto banca-impresa, senza perdere tempo."
   button:
     enable: true
     label: "Scopri di più"
@@ -41,18 +41,18 @@ pro:
     # professionalità item loop
     - name: "Dirigente bancario"
       icon: "images/businessman.png"
-      content: "..."
+      content: "Descrivere il valore aggiunto di questa figura professionale all'interno di creditoveloce!eu"
 
     # professionalità item loop
     - name: "Ingegnere gestionale"
       icon: "images/ingegnere.png"
-      content: "Esperto in finanza agevolata"
+      content: "Descrivere il valore aggiunto di questa figura professionale all'interno di creditoveloce!eu"
 
     - name: "Analista e consulente finanziario"
       icon: "images/desk.png"
       content: "Esperto in finanza agevolata"
 
-############################# portfolio ############################
+############################# approfondimenti ############################
 portfolio:
   enable: true
   subtitle: "Approfondimenti"

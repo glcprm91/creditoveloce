@@ -21,7 +21,7 @@ weight = 4
 home = ["HTML", "RSS"]
 [params]
 author = "Pillar"
-contact_form_action = "#"
+contact_form_action = "#" #form inviato in POST nella pagina contatti
 description = "creditoveloce.com la soluzione per la tua idea"
 keywords = "Creditoveloce, finanziamento, mediazione"
 og_image = "images/hero/share.jpg"

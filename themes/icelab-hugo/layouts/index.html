@@ -260,7 +260,7 @@
       {{ end }}
 
       {{ $work:= (where .Site.RegularPages "Section" "works") }}
-      {{ range last 3 $work }}
+      {{ range last 4 $work }}
       <div class="col-md-6">
         <div class="portfolio-item text-center">
           <a href="{{ .Permalink }}" class="image-holder" data-aos="image-reveal" data-aos-once="true">
