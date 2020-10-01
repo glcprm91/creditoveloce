@@ -89,7 +89,7 @@ testimonial:
 newsletter:
   enable: true
   title: "Non perderti neanche un articolo"
-  content: "Iscriviti alla newsletter di creditoveloce.com"
+  content: "Iscriviti alla newsletter di creditoveloce.eu"
   button:
     enable: true
     label: "Iscrivimi"
