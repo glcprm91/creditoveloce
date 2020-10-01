@@ -18,17 +18,17 @@ service:
   service_item:
     # service item loop
     - name: "Finanza agevolata"
-      icon: "images/icon-1.svg"
+      icon: "images/logo corto creditoveloce.svg"
       content: "Molti investimenti sono potenzialmente soggetti a contributo. Per questo, essere informati su tutte le occasioni che la Finanza Agevolata crea è una sfida per tutte le realtà economiche che vogliono essere competitive e redditive. Ma soprattutto, è necessario mettere in campo il know how per ottenere quegli stessi finanziamenti e, come step successivo, per pianificare poi gli investimenti. È proprio questo quello che offriamo alle Aziende nostre clienti e lo facciamo con metodi altamente innovativi e personalizzati in base alla specifica realtà aziendale che abbiamo di fronte."
 
     # service item loop
     - name: "Consulenza finanziaria a 360°"
-      icon: "images/icon-2.svg"
+      icon: "images/logo corto creditoveloce.svg"
       content: "Studiamo per le nostre Aziende clienti le soluzioni più adatte e flessibili per ottenere i finanziamenti desiderati, con competenza e velocità! Affianchiamo l’imprenditore dall’inizio alla fine: dal rapporto con gli istituti di credito all’assistenza nella corretta gestione del finanziamento acquisito, passando per una valutazione dell’impatto delle scelte sugli equilibri economico-finanziari e patrimoniali dell’Azienda."
 
     # service item loop
     - name: "Controllo di gestione"
-      icon: "images/icon-3.svg"
+      icon: "images/logo corto creditoveloce.svg"
       content: "In un ambiente competitivo e soggetto a forti turbolenze, i sistemi tradizionali di contabilità (generale, analitica e industriale) appaiono ormai limitati perché tengono esclusivamente conto di eventi che si sono già verificati (es ...). Oggi, invece, qualsiasi azienda ha bisogno di anticipare, per quanto possibile, gli svolgimenti futuri della gestione, predisponendo fin da subito azioni correttive idonee a contrastare i potenziali rischi congiunturali."
 
 ################### Professionalita ########################
@@ -40,7 +40,7 @@ pro:
   service_item:
     # professionalità item loop
     - name: "Dirigente bancario"
-      icon: "images/businessman.png"
+      icon: "images/ingegnere.png"
       content: "Descrivere il valore aggiunto di questa figura professionale all'interno di creditoveloce!eu"
 
     # professionalità item loop
@@ -49,7 +49,7 @@ pro:
       content: "Descrivere il valore aggiunto di questa figura professionale all'interno di creditoveloce!eu"
 
     - name: "Analista e consulente finanziario"
-      icon: "images/desk.png"
+      icon: "images/ingegnere.png"
       content: "Esperto in finanza agevolata"
 
 ############################# approfondimenti ############################
