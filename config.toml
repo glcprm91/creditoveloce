@@ -11,7 +11,7 @@ unsafe = true
 # weight = 2
 [[menu.main]]
 URL = "works"
-name = "Approfondimenti"
+name = "News"
 weight = 3
 [[menu.main]]
 URL = "contact"

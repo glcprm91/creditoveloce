@@ -52,10 +52,10 @@ pro:
       icon: "images/ingegnere.png"
       content: "Mentre l’ingegnere è il braccio operativo di ogni progetto, l’analista mette in campo quelle competenze utili a definire il profilo specifico dell’Azienda-cliente che si ha davanti, per elaborare, in base ai singoli piani dell’imprenditore e del mercato di appartenenza, una strategia progettuale “su misura” per accedere ai finanziamenti."
 
-############################# approfondimenti ############################
+############################# news ############################
 portfolio:
   enable: true
-  subtitle: "Approfondimenti"
+  subtitle: "News"
   title: "Il nostro punto di vista"
 
 

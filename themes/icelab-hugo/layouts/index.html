@@ -243,7 +243,7 @@
 <!-- Team Section End -->
 
 
-<!-- Approfondimenti - blog -->
+<!-- News - blog -->
 {{ if .Site.Data.homepage.portfolio.enable }}
 <section class="section portfolio">
   <div class="shape-medium">
@@ -274,13 +274,13 @@
       {{ end }}
 
       <div class="col-12 mt-5 text-center">
-        <a href="/works" class="btn btn-primary">Altri approfondimenti</a>
+        <a href="/works" class="btn btn-primary">Altri news</a>
       </div>
     </div>
   </div>
 </section>
 {{ end }}
-<!-- End Approfondimenti - blog -->
+<!-- End News - blog -->
 
 <!-- Newsletter -->
 {{ if .Site.Data.homepage.call_to_action.enable }}
@@ -356,7 +356,7 @@
 
 
 <!-- Clients Section -->
-{{ with .Site.Data.about.clients }}
+<!-- {{ with .Site.Data.about.clients }}
 <section class="client section">
   <div class="container">
     <div class="row">
@@ -371,15 +371,15 @@
       {{ range .clients_logo }}
       <div class="col-lg-3 col-md-4 col-6">
         <!-- Client Logo -->
-        <div class="client-logo">
+<!-- <div class="client-logo">
           <img src="{{ . | absURL}}" class="w-100" alt="client-logo">
         </div>
       </div>
       {{ end }}
     </div>
   </div>
-</section>
-{{ end }}
+</section> -->
+{{ end }} -->
 
 <!-- End Clients Section -->
 
