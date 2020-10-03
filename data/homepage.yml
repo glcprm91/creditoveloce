@@ -19,17 +19,17 @@ service:
     # service item loop
     - name: "Finanza agevolata"
       icon: "images/logo corto creditoveloce.svg"
-      content: "Molti investimenti sono potenzialmente soggetti a contributo. Per questo, essere informati su tutte le occasioni che la Finanza Agevolata crea è una sfida per tutte le realtà economiche che vogliono essere competitive e redditive. Ma soprattutto, è necessario mettere in campo il know how per ottenere quegli stessi finanziamenti e, come step successivo, per pianificare poi gli investimenti. È proprio questo quello che offriamo alle Aziende nostre clienti e lo facciamo con metodi altamente innovativi e personalizzati in base alla specifica realtà aziendale che abbiamo di fronte."
+      content: "Sono molti gli investimenti che possono essere soggetti a contributo. Per questo, essere al corrente di tutte le occasioni che la Finanza Agevolata crea è una sfida quotidiana per tutte le Aziende che vogliono essere competitive e redditive. È necessario quindi mettere in campo il giusto know how per ottenere i finanziamenti e per pianificare i successivi investimenti. Ed è proprio questo quello che offriamo alle Aziende nostre clienti."
 
     # service item loop
     - name: "Consulenza finanziaria a 360°"
       icon: "images/logo corto creditoveloce.svg"
-      content: "Studiamo per le nostre Aziende clienti le soluzioni più adatte e flessibili per ottenere i finanziamenti desiderati, con competenza e velocità! Affianchiamo l’imprenditore dall’inizio alla fine: dal rapporto con gli istituti di credito all’assistenza nella corretta gestione del finanziamento acquisito, passando per una valutazione dell’impatto delle scelte sugli equilibri economico-finanziari e patrimoniali dell’Azienda."
+      content: "Studiamo per le nostre Aziende clienti le soluzioni più adatte e flessibili per ottenere i finanziamenti desiderati con velocità! Per fare questo, affianchiamo l’imprenditore dall’inizio alla fine: dal rapporto con gli istituti di credito all’assistenza nella corretta gestione del finanziamento acquisito, passando per una valutazione dell’impatto delle scelte sugli equilibri economico-finanziari e patrimoniali dell’Azienda."
 
     # service item loop
     - name: "Controllo di gestione"
       icon: "images/logo corto creditoveloce.svg"
-      content: "In un ambiente competitivo e soggetto a forti turbolenze, i sistemi tradizionali di contabilità (generale, analitica e industriale) appaiono ormai limitati perché tengono esclusivamente conto di eventi che si sono già verificati (es ...). Oggi, invece, qualsiasi azienda ha bisogno di anticipare, per quanto possibile, gli svolgimenti futuri della gestione, predisponendo fin da subito azioni correttive idonee a contrastare i potenziali rischi congiunturali."
+      content: "In un ambiente competitivo e soggetto a forti turbolenze, i sistemi tradizionali di contabilità appaiono ormai limitati e limitanti, perché tengono esclusivamente conto di eventi che si sono già verificati. Oggi, invece, qualsiasi azienda ha bisogno di anticipare, per quanto possibile, gli svolgimenti futuri della gestione, predisponendo fin da subito azioni correttive idonee a contrastare i potenziali rischi congiunturali."
 
 ################### Professionalita ########################
 pro:
@@ -41,16 +41,16 @@ pro:
     # professionalità item loop
     - name: "Dirigente bancario"
       icon: "images/ingegnere.png"
-      content: "Descrivere il valore aggiunto di questa figura professionale all'interno di creditoveloce!eu"
+      content: "Conosce le dinamiche interne del sistema creditizio. Può fungere da trade union fra le esigenze delle imprese e degli istituti finanziari, interpretando al meglio le esigenze di entrambi i soggetti coinvolti."
 
     # professionalità item loop
     - name: "Ingegnere gestionale"
       icon: "images/ingegnere.png"
-      content: "Descrivere il valore aggiunto di questa figura professionale all'interno di creditoveloce!eu"
+      content: "Oltre ad avere familiarità con le dinamiche aziendali, vanta una lunga esperienza nel campo della finanza agevolata. È l’esecutore materiale del progetto per ottenere il finanziamento."
 
     - name: "Analista e consulente finanziario"
       icon: "images/ingegnere.png"
-      content: "Esperto in finanza agevolata"
+      content: "Mentre l’ingegnere è il braccio operativo di ogni progetto, l’analista mette in campo quelle competenze utili a definire il profilo specifico dell’Azienda-cliente che si ha davanti, per elaborare, in base ai singoli piani dell’imprenditore e del mercato di appartenenza, una strategia progettuale “su misura” per accedere ai finanziamenti."
 
 ############################# approfondimenti ############################
 portfolio:
@@ -88,7 +88,7 @@ testimonial:
 ################# newsletter ##################################3
 newsletter:
   enable: true
-  title: "Non perderti neanche un articolo"
+  title: "Non perderti i nostri aggiornamenti"
   content: "Iscriviti alla newsletter di creditoveloce.eu"
   button:
     enable: true
