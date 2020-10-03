@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: "images/hero/hero-bg-2.jpg"
   title: "Credito veloce!"
-  content: "Aiutiamo le Aziende a crescere, cercando e gestendo i finanziamenti più adatti ai loro progetti. L'obiettivo è quello di puntare sul risparmio in termini di costi e sull'efficienza del rapporto banca-impresa, senza perdere tempo."
+  content: "Aiutiamo le Aziende a crescere, cercando e gestendo i finanziamenti più adatti ai loro progetti. L'obiettivo è quello di puntare sul risparmio in termini di costi e sull'efficienza del rapporto banca-impresa senza perdere tempo."
   button:
     enable: true
     label: "Scopri di più"
@@ -56,7 +56,7 @@ pro:
 portfolio:
   enable: true
   subtitle: "News"
-  title: "Il nostro punto di vista"
+  title: "I nostri articoli"
 
 
   # portfolio item comes from `content/work/` folder
