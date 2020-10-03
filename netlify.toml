@@ -4,19 +4,19 @@
     [headers.values]
     Access-Control-Allow-Origin = "*"
 
-    [[redirects]]
-  from = "https://creditoveloce.netlify.app"
-  to = "https://creditoveloce.eu"
-  status = 301
-  force = true
+  #   [[redirects]]
+  # from = "https://creditoveloce.netlify.app"
+  # to = "https://creditoveloce.eu"
+  # status = 301
+  # force = true
 
-[build]
-  publish = "exampleSite/public"
-  command = "cd exampleSite && hugo --gc --themesDir ../.."
+# [build]
+#   publish = "exampleSite/public"
+#   command = "cd exampleSite && hugo --gc --themesDir ../.."
 
-[build.environment]
-  HUGO_VERSION = "0.67.0"
-  HUGO_THEME = "repo"
+# [build.environment]
+#   HUGO_VERSION = "0.67.0"
+#   HUGO_THEME = "repo"
 
 # [[redirects]]
 #   from = "/*"
