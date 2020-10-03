@@ -3,11 +3,7 @@
 <!-- Contact Section -->
 <section class="contact section">
   <div class="shape-big">
-    <img
-      src="{{`images/shape-big.png` | absURL }}"
-      class="img-fluid"
-      alt="big-shape"
-    />
+    <img loading="lazy" src="{{`images/shape-big.png` | absURL }}" class="img-fluid" alt="big-shape" />
   </div>
   <div class="container">
     <div class="row">
@@ -18,47 +14,19 @@
           <!-- Contact Form -->
           <div class="contact-form">
             <h4>Scrivici!</h4>
-            <form
-              name="contact"
-              method="POST"
-              action="{{ .Site.Params.contact_form_action}}"
-              class="row"
-            >
+            <form name="contact" method="POST" action="{{ .Site.Params.contact_form_action}}" class="row">
               <div class="col-md-6">
-                <input
-                  type="text"
-                  class="form-control"
-                  placeholder="Nome e cognome"
-                  name="name"
-                  id="name"
-                />
+                <input type="text" class="form-control" placeholder="Nome e cognome" name="name" id="name" />
               </div>
               <div class="col-md-6">
-                <input
-                  type="email"
-                  class="form-control"
-                  placeholder="La tua email"
-                  name="email"
-                  id="email"
-                />
+                <input type="email" class="form-control" placeholder="La tua email" name="email" id="email" />
               </div>
               <div class="col-12">
-                <input
-                  type="text"
-                  class="form-control"
-                  placeholder="Oggetto"
-                  name="subject"
-                  id="subject"
-                />
+                <input type="text" class="form-control" placeholder="Oggetto" name="subject" id="subject" />
               </div>
               <div class="col-12">
-                <textarea
-                  name="message"
-                  id="message"
-                  class="form-control"
-                  placeholder="Scrivi qui il tuo messaggio"
-                  rows="5"
-                ></textarea>
+                <textarea name="message" id="message" class="form-control" placeholder="Scrivi qui il tuo messaggio"
+                  rows="5"></textarea>
               </div>
               <div class="col-12">
                 <button class="btn btn-primary" type="submit">Invia</button>

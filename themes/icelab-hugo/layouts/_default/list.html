@@ -9,7 +9,7 @@
       <div class="col-md-6">
         <div class="portfolio-item text-center">
           <a href="{{ .Permalink }}" class="image-holder" data-aos="image-reveal" data-aos-once="true">
-            <img src="{{ .Params.Image | absURL }}" class="img-fluid" alt="{{ .Title }}">
+            <img loading="lazy" src="{{ .Params.Image | absURL }}" class="img-fluid" alt="{{ .Title }}">
           </a>
           <h6 class="sm product-name">{{ .Title }}</h6>
           <p class="company">{{ .Params.Company }}</p>
