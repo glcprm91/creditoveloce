@@ -88,7 +88,7 @@ testimonial:
 ################# newsletter ##################################3
 newsletter:
   enable: true
-  title: "Non perderti i nostri aggiornamenti"
+  title: "Non perderti nessuna news"
   content: "Iscriviti alla newsletter di creditoveloce.eu"
   button:
     enable: true
@@ -99,7 +99,7 @@ newsletter:
 call_to_action:
   enable: true
   title: "Sei interessato?"
-  content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus asperiores dignissimos cupiditate! Necessitatibus distinctio molestiae omnis tempora facere in cum?"
+  content: "Allora forse è il momento giusto per cliccare qui in basso e presentarci la tua idea"
   button:
     enable: true
     label: "Parliamone insieme"
