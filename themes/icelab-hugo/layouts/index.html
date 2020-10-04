@@ -87,16 +87,16 @@
           <img loading="lazy" src="{{ .image | absURL}}" alt="idea" class="w-100">
         </div>
       </div>
-    </div>
-    <div class="col-lg-5 align-self-center ml-auto">
-      <div class="philosophy-content">
-        <!-- section title -->
-        <div class="section-title">
-          <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
-          <h2><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify}}</h2>
-        </div>
-        <div class="content">
-          <p>{{ .content | markdownify }}</p>
+      <div class="col-lg-5 align-self-center ml-auto">
+        <div class="philosophy-content">
+          <!-- section title -->
+          <div class="section-title">
+            <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
+            <h2><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify}}</h2>
+          </div>
+          <div class="content">
+            <p>{{ .content | markdownify }}</p>
+          </div>
         </div>
       </div>
     </div>
@@ -190,15 +190,16 @@
           <img loading="lazy" src="{{ .image | absURL}}" alt="idea" class="w-100">
         </div>
       </div>
-    </div>
-    <div class="col-lg-5 align-self-center ml-auto">
-      <div class="philosophy-content">
-        <!-- section title -->
-        <div class="section-title">
-          <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
-          <h2><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify}}</h2>
+
+      <div class="col-lg-5 align-self-center ml-auto">
+        <div class="philosophy-content">
+          <!-- section title -->
+          <div class="section-title">
+            <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
+            <h2><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify}}</h2>
+          </div>
+          <div class="content">{{ .content | markdownify }}</div>
         </div>
-        <div class="content">{{ .content | markdownify }}</div>
       </div>
     </div>
   </div>
