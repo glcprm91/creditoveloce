@@ -1,7 +1,7 @@
 .hero-area{
     position: relative;
-    background: rgba($color: $footer-bg, $alpha: .8);
-    background-image: url("../images/hero/hero-bg-2.jpg");
+    background: linear-gradient(0deg, rgba(30, 37, 41, 0.3), rgba(30, 37, 41, 0.3)), url("../images/hero/hero-bg-2.jpg") ;
+    // background-image: url("../images/hero/hero-bg-2.jpg");rgba($color: 1e2529, $alpha: .8) linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3))
     background-size: cover;
     height: 100vh;
     display: flex;
