@@ -17,6 +17,9 @@
     position: relative;
     overflow: visible;
     transition: all .3s ease;
+    @include mobile{
+        padding: 20px 30px;
+    }
     .icon{
         margin-bottom: 50px;
         svg,img{

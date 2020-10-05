@@ -17,19 +17,17 @@ service:
   title: "I nostri servizi"
   service_item:
     # service item loop
-    - name: "Finanza agevolata"
-      icon: "images/logo corto creditoveloce.svg"
-      content: "Sono molti gli investimenti che possono essere soggetti a contributo. Per questo, essere al corrente di tutte le occasioni che la Finanza Agevolata crea è una sfida quotidiana per tutte le Aziende che vogliono essere competitive e redditive. È necessario quindi mettere in campo il giusto know how per ottenere i finanziamenti e per pianificare i successivi investimenti. Ed è proprio questo quello che offriamo alle Aziende nostre clienti."
-
-    # service item loop
     - name: "Consulenza finanziaria a 360°"
       icon: "images/logo corto creditoveloce.svg"
       content: "Studiamo per le nostre Aziende clienti le soluzioni più adatte e flessibili per ottenere i finanziamenti desiderati con velocità! Per fare questo, affianchiamo l’imprenditore dall’inizio alla fine: dal rapporto con gli istituti di credito all’assistenza nella corretta gestione del finanziamento acquisito, passando per una valutazione dell’impatto delle scelte sugli equilibri economico-finanziari e patrimoniali dell’Azienda."
-
     # service item loop
     - name: "Controllo di gestione"
       icon: "images/logo corto creditoveloce.svg"
       content: "In un ambiente competitivo e soggetto a forti turbolenze, i sistemi tradizionali di contabilità appaiono ormai limitati e limitanti, perché tengono esclusivamente conto di eventi che si sono già verificati. Oggi, invece, qualsiasi azienda ha bisogno di anticipare, per quanto possibile, gli svolgimenti futuri della gestione, predisponendo fin da subito azioni correttive idonee a contrastare i potenziali rischi congiunturali."
+    # service item loop
+    - name: "Finanza agevolata"
+      icon: "images/logo corto creditoveloce.svg"
+      content: "Sono molti gli investimenti che possono essere soggetti a contributo. Per questo, essere al corrente di tutte le occasioni che la Finanza Agevolata crea è una sfida quotidiana per tutte le Aziende che vogliono essere competitive e redditive. È necessario quindi mettere in campo il giusto know how per ottenere i finanziamenti e per pianificare i successivi investimenti. Ed è proprio questo quello che offriamo alle Aziende nostre clienti."
 
 ################### Professionalita ########################
 pro:
