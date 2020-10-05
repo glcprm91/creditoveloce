@@ -1,15 +1,21 @@
 .hero-area{
     position: relative;
     background: rgba($color: $footer-bg, $alpha: .8);
+    background-image: url("../images/hero/hero-bg-2.jpg");
+    background-size: cover;
     height: 100vh;
     display: flex;
     align-items: center;
     background-repeat: no-repeat;
     z-index: 2;
     @include desktop{
+        background-position: 65%;
         height: 100%;
         padding: 150px 0;
     }
+     @include mobile{
+         background-position: 65%;
+     }
     .content{
         h6{
             font-family: $secondary-font;
