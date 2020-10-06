@@ -54,7 +54,7 @@ pro:
 portfolio:
   enable: true
   subtitle: "News"
-  title: "I nostri articoli"
+  title: "I nostri aggiornamenti"
 
 
   # portfolio item comes from `content/work/` folder
@@ -97,7 +97,7 @@ newsletter:
 call_to_action:
   enable: true
   title: "Sei interessato?"
-  content: "Allora forse è il momento giusto per cliccare qui in basso e presentarci la tua idea"
+  content: "Allora è il momento giusto per cliccare qui in basso e presentarci la tua idea"
   button:
     enable: true
     label: "Parliamone insieme"

@@ -3,8 +3,8 @@ history:
   enable : true
   image: "images/piantina 2.jpg"
   subtitle : "MISSION"
-  title : "Il nostro obiettivo"
-  content : "Restare sempre aggiornati sulle opportunità a livello finanziario per i nostri clienti attuali e potenziali. Solo così può essere offerta la miglior consulenza possibile. Ciò passa attraverso un’attività di monitoraggio dei bandi e della normativa in ambito finanziario e creditizio, un mondo in continua evoluzione."
+  title : "Consulenza al passo coi tempi"
+  content : "È solo restando sempre aggiornati sulle opportunità a livello finanziario per le Aziende nostri clienti che può essere offerta la miglior consulenza possibile. Ciò passa attraverso un’attività di monitoraggio dei bandi e della normativa in ambito finanziario e creditizio, un mondo in continua evoluzione."
 
 ######################### aboutus ############################
 
@@ -44,13 +44,9 @@ team:
 philosophy:
   enable : true
   subtitle : "L'idea"
-  title : "Da dove nasce l'idea"
+  title : "Come nasce Creditoveloce!eu"
   image : "images/rubick.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liquam fina water. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor in reprehenderit. in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-
-  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium"
-
+  content : "I tre fondatori hanno compreso che uscire dalla propria individualità professionale, unendo le forze in un team intersettoriale, poteva dare alle Aziende nostre clienti una marcia in più all’interno dei processi di ottenimento e gestione dei finanziamenti."
 
 ############################ Clients ################################
 clients:
