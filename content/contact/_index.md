@@ -6,10 +6,10 @@ draft: false
 
 #### Info
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liqua fina water.
+Compila i campi per avere maggiori informazioni e per fissare un incontro con un nostro consulente
 
-* Tel. : +880 1672 506 744
-* Email : themefisher@gmail.com
-* Skype : Mehedi Sharif Titas
-* Whatsapp : +880 1672 506 744
-* Address : Shyamoli, Dhaka.
+- Tel. : +39 377 3835326
+- Email : info@creditoveloce.com
+<!-- * Skype : Mehedi Sharif Titas -->
+- Whatsapp : +39 377 3835326
+<!-- * Address : Shyamoli, Dhaka. -->
