@@ -91,7 +91,7 @@ newsletter:
   button:
     enable: true
     label: "Iscrivimi"
-    link: "contact"
+    link: "https://tinyletter.com/gianluca8491"
 
 ################# call to action ##################################3
 call_to_action:
