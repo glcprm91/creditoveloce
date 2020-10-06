@@ -86,8 +86,8 @@ testimonial:
 ################# newsletter ##################################3
 newsletter:
   enable: true
-  title: "Non perderti nessuna news"
-  content: "Iscriviti alla newsletter di creditoveloce.eu"
+  title: "Non perderti <br>i nostri aggiornamenti"
+  content: "Iscriviti alla newsletter di creditoveloce!eu per essere sempre aggiornato sulle novità dal mondo del l’accesso al credito per le imprese"
   button:
     enable: true
     label: "Iscrivimi"

@@ -245,6 +245,29 @@
 {{ end }} -->
 <!-- Team Section End -->
 
+<!-- Newsletter -->
+{{ if .Site.Data.homepage.call_to_action.enable }}
+{{ with .Site.Data.homepage.newsletter }}
+<section class="section cta">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <div class="content">
+          <h2 class="text-white">{{ .title | markdownify }}</h2>
+          <p class="text-white mb-4 mx-auto">{{ .content | markdownify }}</p>
+          {{ if .button.enable }}
+          {{ with .button }}
+          <a href="{{ .link | absURL }}" class="btn btn-dark">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- End Newsletter -->
 
 <!-- News - blog -->
 {{ if .Site.Data.homepage.portfolio.enable }}
@@ -285,29 +308,7 @@
 {{ end }}
 <!-- End News - blog -->
 
-<!-- Newsletter -->
-{{ if .Site.Data.homepage.call_to_action.enable }}
-{{ with .Site.Data.homepage.newsletter }}
-<section class="section cta">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <div class="content">
-          <h2 class="text-white">{{ .title | markdownify }}</h2>
-          <p class="text-white mb-4 mx-auto">{{ .content | markdownify }}</p>
-          {{ if .button.enable }}
-          {{ with .button }}
-          <a href="{{ .link | absURL }}" class="btn btn-dark">{{ .label }}</a>
-          {{ end }}
-          {{ end }}
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-<!-- End Newsletter -->
+
 
 
 <!-- {{ if .Site.Data.homepage.testimonial.enable }}
