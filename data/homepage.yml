@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: "images/hero/hero-bg-2.jpg"
   title: "Credito veloce!"
-  content: "Aiutiamo le Aziende a crescere, cercando e gestendo i finanziamenti più adatti ai loro progetti. L'obiettivo è quello di puntare sul risparmio in termini di costi e sull'efficienza del rapporto banca-impresa senza perdere tempo."
+  content: "Aiutiamo le Aziende a crescere cercando e gestendo i finanziamenti più adatti ai loro progetti. L’obiettivo è quello di puntare sul risparmio in termini di costi e sull’efficienza del rapporto banca-impresa senza perdere tempo."
   button:
     enable: true
     label: "Scopri di più"
@@ -19,11 +19,11 @@ service:
     # service item loop
     - name: "Consulenza finanziaria a 360°"
       icon: "images/logo corto creditoveloce.svg"
-      content: "Studiamo per le nostre Aziende clienti le soluzioni più adatte e flessibili per ottenere i finanziamenti desiderati con velocità! Per fare questo, affianchiamo l’imprenditore dall’inizio alla fine: dal rapporto con gli istituti di credito all’assistenza nella corretta gestione del finanziamento acquisito, passando per una valutazione dell’impatto delle scelte sugli equilibri economico-finanziari e patrimoniali dell’Azienda."
+      content: "Studiamo per le Aziende nostre clienti le soluzioni più adatte e flessibili per ottenere i finanziamenti desiderati, con velocità! Per fare questo, affianchiamo l’imprenditore dall’inizio alla fine: dal rapporto con gli istituti di credito all’assistenza nella corretta gestione del finanziamento una volta acquisito, passando per una valutazione dell’impatto delle scelte operate sugli equilibri economico-finanziari e patrimoniali dell’Azienda."
     # service item loop
     - name: "Controllo di gestione"
       icon: "images/logo corto creditoveloce.svg"
-      content: "In un ambiente competitivo e soggetto a forti turbolenze, i sistemi tradizionali di contabilità appaiono ormai limitati e limitanti, perché tengono esclusivamente conto di eventi che si sono già verificati. Oggi, invece, qualsiasi azienda ha bisogno di anticipare, per quanto possibile, gli svolgimenti futuri della gestione, predisponendo fin da subito azioni correttive idonee a contrastare i potenziali rischi congiunturali."
+      content: "In un ambiente economico competitivo e soggetto a forti turbolenze, i sistemi tradizionali di contabilità appaiono ormai limitati e limitanti, perché tengono esclusivamente conto di eventi che si sono già verificati. Oggi, invece, qualsiasi azienda ha bisogno di anticipare, per quanto possibile, gli svolgimenti futuri della gestione, predisponendo fin da subito azioni correttive idonee a contrastare i potenziali rischi congiunturali."
     # service item loop
     - name: "Finanza agevolata"
       icon: "images/logo corto creditoveloce.svg"
