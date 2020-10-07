@@ -7,15 +7,15 @@ sections:
 - type: heading
   label: Homepage
 - type: document
-  path: creditoveloce/data/homepage.yml
+  path: data/homepage.yml
   label: Homepage Data
 - type: heading
   label: Articoli pubblicati
 - type: document
-  path: creditoveloce/content/works/_index.md
+  path: content/works/_index.md
   label: Articoli Content
 - type: directory
-  path: creditoveloce/content/works
+  path: content/works
   label: Articoli
   create: documents
   match: "**/*"
