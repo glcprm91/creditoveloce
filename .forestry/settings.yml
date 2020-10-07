@@ -7,34 +7,34 @@ sections:
 - type: heading
   label: Homepage
 - type: document
-  path: creditoveloce.eu/data/homepage.yml
+  path: creditoveloce/data/homepage.yml
   label: Homepage Data
 - type: heading
   label: Articoli pubblicati
 - type: document
-  path: creditoveloce.eu/content/works/_index.md
+  path: creditoveloce/content/works/_index.md
   label: Articoli Content
 - type: directory
-  path: creditoveloce.eu/content/works
+  path: creditoveloce/content/works
   label: Articoli
   create: documents
   match: "**/*"
   exclude: _index.md
   templates:
   - portfolio
-- type: heading
-  label: About Page
-- type: document
-  path: creditoveloce.eu/content/about/_index.md
-  label: About Content
-- type: document
-  path: creditoveloce.eu/data/about.yml
-  label: About Data
-- type: heading
-  label: Contact Page
-- type: document
-  path: creditoveloce.eu/content/contact/_index.md
-  label: Contact Content
+# - type: heading
+#   label: About Page
+# - type: document
+#   path: creditoveloce/content/about/_index.md
+#   label: About Content
+# - type: document
+#   path: creditoveloce/data/about.yml
+#   label: About Data
+# - type: heading
+#   label: Contact Page
+# - type: document
+#   path: creditoveloce/content/contact/_index.md
+#   label: Contact Content
 - type: heading
   label: Configuration
 - type: directory
