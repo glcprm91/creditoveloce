@@ -11,9 +11,6 @@ sections:
   label: Homepage Data
 - type: heading
   label: Articoli pubblicati
-- type: document
-  path: content/works/_index.md
-  label: Articoli Content
 - type: directory
   path: content/works
   label: Articoli
