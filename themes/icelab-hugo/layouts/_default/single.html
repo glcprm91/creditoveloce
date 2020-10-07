@@ -19,16 +19,11 @@
       <div class="col-lg-4">
         <!-- sidebar -->
         <div class="work-single-sidebar bg-gray" data-aos="fade-up" data-aos-duration="500" data-aos-once="true">
-          <h5>Clients</h5>
-          <h6>{{ .Params.Client }}</h6>
-          <h5>Website Link</h5>
-          <h6><a class="h6" href="{{.Params.SiteLink}}">{{.Params.SiteLink}}</a></h6>
-          <h5>date</h5>
-          <h6>{{ .PublishDate.Format "January 02, 2006" }}</h6>
-          <h5>category</h5>
-          <h6>{{ .Params.Category }}</h6>
-          <h5>locations</h5>
-          <h6>{{ .Params.location }}</h6>
+
+          <h5>Pubblicato il</h5>
+          <h6>{{ .PublishDate.Format "02/01/2006" }}</h6>
+          <h5>Si parla di</h5>
+          <h6>{{ .Params.Tag }}</h6>
           <h4 class="mt-5">Continua a leggerci</h4>
           <a href="https://tinyletter.com/gianluca8491" class="btn btn-primary">Iscriviti alla newsletter</a>
         </div>

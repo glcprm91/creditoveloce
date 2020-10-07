@@ -3,11 +3,7 @@ title: "Approfondimenti e notizie riguardo il mondo dell’accesso al credito pe
 date: 2020-10-01T15:38:38+06:00
 draft: false
 image: "images/portfolios/24ore.jpg"
-company: "creditoveloce.eu"
-client: "Julia Robertson"
-category: "Investment, Business"
-location: "1201 park street, Avenue, Dhaka"
-siteLink: "#"
+tag: "Investment, Business"
 ---
 
 ### Consectur in Bibendum
