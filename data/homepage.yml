@@ -54,7 +54,7 @@ pro:
 portfolio:
   enable: true
   subtitle: "News"
-  title: "I nostri aggiornamenti"
+  title: ""
 
 
   # portfolio item comes from `content/work/` folder

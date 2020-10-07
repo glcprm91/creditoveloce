@@ -152,7 +152,7 @@
   </div>
   <div class="container">
     <div class="row">
-      <div class="col-lg-6 align-self-center">
+      <div class="col-lg-5 ml-auto align-self-center">
         <!-- History Content -->
         <div class="history-content">
           <!-- section title -->
@@ -165,7 +165,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-5 ml-auto">
+      <div class="col-lg-6">
         <!-- History Image -->
         <div class="history-image">
           <img loading="lazy" src="{{ .image | absURL}}" class="w-100" alt="mission">
@@ -183,15 +183,15 @@
 {{ with .Site.Data.about.philosophy }}
 <section class="philosophy section">
   <div class="container">
-    <div class="row">
-      <div class="col-lg-6">
+    <div class="row" id="rubick">
+      <div class="col-lg-6 ">
         <div class="history-image mb-5 mb-lg-0">
           <img loading="lazy" src="{{ .image | absURL}}" alt="idea" class="w-100">
         </div>
       </div>
 
-      <div class="col-lg-5 align-self-center ml-auto">
-        <div class="philosophy-content">
+      <div class="col-lg-5  align-self-center ml-auto">
+        <div class="history-content">
           <!-- section title -->
           <div class="section-title">
             <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
@@ -286,7 +286,7 @@
       <div class="col-12">
         <div class="section-title">
           <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
-          <h2><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify}}
+          <!-- <h2><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify}} -->
           </h2>
         </div>
       </div>

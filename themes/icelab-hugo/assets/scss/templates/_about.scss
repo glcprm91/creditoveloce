@@ -67,3 +67,9 @@
         margin-bottom: 20px;
     }
 }
+
+#rubick{
+    @include desktop{
+        flex-direction: column-reverse;
+    }
+}
