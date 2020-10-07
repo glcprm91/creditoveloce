@@ -26,5 +26,3 @@ fields:
 - type: text
   name: siteLink
   label: site link
-pages:
-- https://creditoveloce.eu/content/works/test.md

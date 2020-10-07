@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url:
+webhook_url: 
 sections:
 - type: heading
   label: Homepage
@@ -22,19 +22,6 @@ sections:
   exclude: _index.md
   templates:
   - portfolio
-# - type: heading
-#   label: About Page
-# - type: document
-#   path: creditoveloce/content/about/_index.md
-#   label: About Content
-# - type: document
-#   path: creditoveloce/data/about.yml
-#   label: About Data
-# - type: heading
-#   label: Contact Page
-# - type: document
-#   path: creditoveloce/content/contact/_index.md
-#   label: Contact Content
 - type: heading
   label: Configuration
 - type: directory

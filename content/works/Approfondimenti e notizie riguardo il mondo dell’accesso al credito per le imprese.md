@@ -1,15 +1,14 @@
 ---
-title: "Approfondimenti e notizie riguardo il mondo dell’accesso al credito per le imprese"
-date: 2020-10-01T15:38:38+06:00
-draft: false
-image: "images/portfolios/24ore.jpg"
-company: "creditoveloce.eu"
-client: "Julia Robertson"
-category: "Investment, Business"
-location: "1201 park street, Avenue, Dhaka"
+title: test articolo
+date: 2020-10-01T15:38:38.000+06:00
+image: images/portfolios/24ore.jpg
+company: creditoveloce.eu
+client: Julia Robertson
+category: Investment, Business
+location: 1201 park street, Avenue, Dhaka
 siteLink: "#"
----
 
+---
 ### Consectur in Bibendum
 
 Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt
