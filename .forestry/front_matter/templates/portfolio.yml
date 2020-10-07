@@ -26,3 +26,5 @@ fields:
 - type: text
   name: siteLink
   label: site link
+pages:
+- exampleSite/content/works/test.md
