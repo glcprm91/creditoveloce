@@ -10,13 +10,13 @@ sections:
   path: https://creditoveloce.eu/data/homepage.yml
   label: Homepage Data
 - type: heading
-  label: Portfolio Page
+  label: Articoli pubblicati
 - type: document
   path: https://creditoveloce.eu/content/works/_index.md
   label: Articoli Content
 - type: directory
   path: https://creditoveloce.eu/content/works
-  label: Portfolio Files
+  label: Articoli
   create: documents
   match: "**/*"
   exclude: _index.md
