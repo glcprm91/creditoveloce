@@ -26,3 +26,5 @@ fields:
 - type: text
   name: siteLink
   label: site link
+pages:
+- content/works/articolo-test.md
