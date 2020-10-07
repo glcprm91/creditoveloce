@@ -2,20 +2,20 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Homepage
 - type: document
-  path: exampleSite/data/homepage.yml
+  path: https://creditoveloce.eu/data/homepage.yml
   label: Homepage Data
 - type: heading
   label: Portfolio Page
 - type: document
-  path: exampleSite/content/works/_index.md
-  label: Portfolio Content
+  path: https://creditoveloce.eu/content/works/_index.md
+  label: Articoli Content
 - type: directory
-  path: exampleSite/content/works
+  path: https://creditoveloce.eu/content/works
   label: Portfolio Files
   create: documents
   match: "**/*"
@@ -25,15 +25,15 @@ sections:
 - type: heading
   label: About Page
 - type: document
-  path: exampleSite/content/about/_index.md
+  path: https://creditoveloce.eu/content/about/_index.md
   label: About Content
 - type: document
-  path: exampleSite/data/about.yml
+  path: https://creditoveloce.eu/data/about.yml
   label: About Data
 - type: heading
   label: Contact Page
 - type: document
-  path: exampleSite/content/contact/_index.md
+  path: https://creditoveloce.eu/content/contact/_index.md
   label: Contact Content
 - type: heading
   label: Configuration
