@@ -15,5 +15,4 @@ fields:
   name: tag
   label: tag
 pages:
-- content/works/articolo-test.md
 - content/works/test1.md
