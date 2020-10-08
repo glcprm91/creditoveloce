@@ -14,5 +14,3 @@ fields:
 - type: text
   name: tag
   label: tag
-pages:
-- content/works/test1.md
