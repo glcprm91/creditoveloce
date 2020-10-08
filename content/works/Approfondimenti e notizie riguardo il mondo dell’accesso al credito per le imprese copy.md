@@ -2,7 +2,7 @@
 title: 'La consulenza finanziaria al passo coi tempi: nasce creditoveloce.eu!'
 date: 2020-10-08T17:38:38+00:00
 image: "/images/hero/share.jpg"
-tag: Investment, Business
+tag: consulenza finanziaria, finanza agevolata
 
 ---
 
