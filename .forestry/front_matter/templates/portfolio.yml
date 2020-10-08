@@ -11,10 +11,9 @@ fields:
 - type: file
   name: image
   label: immagine
-
 - type: text
   name: tag
   label: tag
-
 pages:
 - content/works/articolo-test.md
+- content/works/test1.md
