@@ -1,38 +1,37 @@
 ---
-title: "Approfondimenti e notizie riguardo il mondo dell’accesso al credito per le imprese"
-date: 2020-10-01T15:38:38+06:00
-draft: false
-image: "images/portfolios/24ore.jpg"
-tag: "Investment, Business"
+title: 'La consulenza finanziaria al passo coi tempi: nasce creditoveloce.eu!'
+date: 2020-10-08T17:38:38+00:00
+image: "/images/hero/share.jpg"
+tag: Investment, Business
+
 ---
 
-### Consectur in Bibendum
+La consulenza finanziaria è in continua evoluzione. Quest’attività, centrale nelle scelte finanziarie di un individuo o di un’impresa, è fondamentale laddove mancano competenze e professionalità.
 
-Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt
-explicabo.
-nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur
-magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor
-amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation
-ullamco laboris nisi ut aliquip ex ea commodo consequat.
+La corretta gestione dei risparmi, la conoscenza degli strumenti di accesso al credito, le capacità previsionali e di monitoraggio, possono fare la differenza in termini di equilibrio economico e benessere finanziario per il presente e il futuro di un’impresa. Ma oggi tutto ciò non può bastare. È necessario innovare, sia da un punto di vista tecnologico ma soprattutto nelle metodologie, nei processi e nell’approccio al cliente.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim est
-laborum. Sed ut perspiciatis unde omnis iste natus. error sit voluptatem accusantium doloremque laudantium,
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta
-sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
-dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Una consulenza finanziaria innovativa è una consulenza al passo coi tempi, in grado di cavalcare il presente, imparare dal passato, per governare il futuro. Ed è proprio il futuro la vera sfida della consulenza finanziaria di oggi.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+**L’approccio innovativo alla consulenza finanziaria**
 
-Consequuntur magni dolores ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia
-dolor sit amet consectetur adipisci velit.lorem ipsum dolor sit amet consectetur adipisicing elit
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam quis nostrud
-exercitation ullamco laboris nisi ut aliquip commodo consequat.
+Da tutti questi presupposti nasce creditoveloce.eu, un team di esperti in controllo di gestione e finanza agevolata, al servizio delle Aziende (grandi o piccole che siano) che hanno deciso, per esigenza, di fare il passo più significativo: quello di compiere le migliori scelte finanziarie con l’aiuto di un professionista.
 
-Reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat
-non proident. sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis
-unde omnis iste natus.
+**Cos’è creditoveloce.eu**
+
+creditoveloce.eu è il team di consulenti finanziari che aiuta le Aziende a crescere, cercando e gestendo i finanziamenti più adatti ai loro progetti. La parola d’ordine è “innovazione”. Tradotto: offrire una consulenza finanziaria al passo coi tempi. La mission di creditoveloce.eu è proprio questa. È soltanto restando sempre aggiornati sulle opportunità a livello finanziario per le Aziende che può essere offerta la miglior consulenza possibile.
+
+In che modo? Navigando a vele spiegate ma con la giusta prudenza in un mondo in continua evoluzione, attraverso un’attività di monitoraggio dei bandi e della normativa in ambito finanziario e creditizio.
+
+Attraverso un approccio multidisciplinare, raro da trovare nella consulenza finanziaria moderna, basato su due ingredienti fondamentali: pianificazione scrupolosa ed approfondite analisi di scenario. creditoveloce.eu è formata, infatti, da un dirigente bancario, un ingegnere, un gestionale esperto in finanzia agevolata e, all'occorrenza, da revisori dei conti.
+
+Competenze gestionali e operative si fondono con una decennale conoscenza del sistema creditizio e delle sue dinamiche interne. Il dirigente bancario è in grado di intermediare tra le esigenze del cliente e degli istituti finanziari, interpretando al meglio le necessità di entrambi i soggetti coinvolti. Un esperto di finanza agevolata è l’esecutore materiale del progetto, la mano dietro l’ottenimento del finanziamento. A tutto ciò si aggiunge la componente analitica, fondamentale per offrire una strategia su misura del cliente. Né factotum della consulenza o strategie improvvisate, ma solo pragmatismo e competenza.
+
+**Perché creditoveloce.eu**
+
+In un ambiente economico, competitivo e soggetto a forti turbolenze, i sistemi tradizionali di contabilità appaiono ormai limitati e limitanti, perché tengono esclusivamente conto di eventi che si sono già verificati. Oggi, invece, qualsiasi azienda ha bisogno di anticipare, per quanto possibile, gli svolgimenti futuri della gestione, predisponendo fin da subito azioni correttive idonee a contrastare i potenziali rischi congiunturali.
+
+L’idea di creditoveloce.eu nasce proprio da qui, in un momento contraddittorio per il mercato finanziario italiano e internazionale. L’impatto del Covid-19 ha portato a ripensare diversi modelli di business, tra cui quello dei servizi bancari e finanziari. D’altra parte l’innovazione digitale unita la spinta normativa della PSD2 (Payment Service Directive) e il conseguente fenomeno dell’Open Banking aprono a opportunità fino a prima impensabili, anche in questo periodo per certi versi delicato.
+
+È necessaria quindi una consulenza finanziaria a 360 gradi, flessibile e veloce. Per questo motivo creditoveloce.eu affianca l’imprenditore dall’inizio alla fine: dal rapporto con gli istituti di credito all’assistenza nella corretta gestione del finanziamento una volta acquisito, passando per una valutazione dell’impatto delle scelte operate sugli equilibri economico-finanziari e patrimoniali dell’Azienda.
+
+C’è infine bisogno di essere al corrente di tutte le occasioni che la Finanza Agevolata mette a disposizione delle imprese che vogliono essere competitive e redditizie, di tutti gli investimenti che possono essere soggetti a contributi. Anche qui creditoveloce.eu mette in campo il _know-how_ ideale e il giusto mix di competenze.
