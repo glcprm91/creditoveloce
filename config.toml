@@ -28,6 +28,7 @@ og_image = "images/hero/share.jpg"
 footer_content = "Consulenti finanziari per le Aziende<br> info@creditoveloce.eu<br>amministrazione@creditoveloce.eu<br>direzione@creditoveloce.eu"
 home = "Home"
 logo = "images/logo.png"
+pillarlogo = "images/pillar.png"
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
