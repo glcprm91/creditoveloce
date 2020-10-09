@@ -7,7 +7,7 @@ tag: consulenza finanziaria, finanza agevolata
 ---
 La consulenza finanziaria è in continua evoluzione. Quest’attività, centrale nelle scelte finanziarie di un individuo o di un’impresa, è fondamentale laddove mancano competenze e professionalità.
 
-La corretta gestione dei risparmi, la conoscenza degli strumenti di accesso al credito, le capacità previsionali e di monitoraggio, possono fare la differenza in termini di equilibrio economico e benessere finanziario per il presente e il futuro di un’impresa. Ma oggi tutto ciò non può bastare. È necessario innovare, sia da un punto di vista tecnologico ma soprattutto nelle metodologie, nei processi e nell’approccio al cliente.
+> La corretta gestione dei risparmi, la conoscenza degli strumenti di accesso al credito e le capacità previsionali e di monitoraggio, possono fare la differenza in termini di equilibrio economico e benessere finanziario per il presente e il futuro di un’impresa. Ma oggi tutto ciò non può bastare. È necessario innovare, sia da un punto di vista tecnologico ma soprattutto nelle metodologie, nei processi e nell’approccio al cliente.
 
 Una consulenza finanziaria innovativa è una consulenza al passo coi tempi, in grado di cavalcare il presente, imparare dal passato, per governare il futuro. Ed è proprio il futuro la vera sfida della consulenza finanziaria di oggi.
 
@@ -21,7 +21,7 @@ creditoveloce.eu è un team di consulenti finanziari che aiuta le Aziende a cres
 
 In che modo? Navigando a vele spiegate ma con la giusta prudenza in un mondo in continua evoluzione, attraverso un’attività di monitoraggio dei bandi e della normativa in ambito finanziario e creditizio.
 
-Attraverso un approccio multidisciplinare, raro da trovare nella consulenza finanziaria moderna, basato su due ingredienti fondamentali: pianificazione scrupolosa ed approfondite analisi di scenario. creditoveloce.eu è formata, infatti, da un dirigente bancario, un ingegnere gestionale esperto in finanza agevolata, un analista e consulente finanziario e, all'occorrenza, da revisori dei conti.
+> creditoveloce.eu mette in campo un approccio multidisciplinare, raro da trovare nella consulenza finanziaria moderna, basato su due ingredienti fondamentali: pianificazione scrupolosa ed approfondite analisi di scenario. creditoveloce.eu è formata, infatti, da un dirigente bancario, un ingegnere gestionale esperto in finanza agevolata, un analista e consulente finanziario e, all'occorrenza, da revisori dei conti.
 
 Competenze gestionali e operative si fondono con una decennale conoscenza del sistema creditizio e delle sue dinamiche interne. Il dirigente bancario è in grado di intermediare tra le esigenze del cliente e degli istituti finanziari, interpretando al meglio le necessità di entrambi i soggetti coinvolti. Un ingegnere gestionale esperto di finanza agevolata è l’esecutore materiale del progetto per "vincere" il finanziamento. A tutto ciò si aggiunge la componente analitica, fondamentale per offrire una strategia su misura del cliente: un'attività alla base dell'intera operazione; un valore aggiunto per ottenere risultati. Quindi, né factotum della consulenza o strategie improvvisate, ma solo pragmatismo e competenza.
 
