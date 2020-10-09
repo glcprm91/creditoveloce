@@ -2,7 +2,8 @@
 title: 'La consulenza finanziaria al passo coi tempi: nasce creditoveloce!eu'
 date: 2020-10-08T17:38:38.000+00:00
 image: "/images/hero/hero-bg-2.jpg"
-tag: consulenza finanziaria, finanza agevolata
+tag: consulenza finanziaria, finanza agevolata, controllo di gestione, analisi di
+  scenario
 
 ---
 La consulenza finanziaria è in continua evoluzione. Quest’attività, centrale nelle scelte finanziarie di un individuo o di un’impresa, è fondamentale laddove mancano competenze e professionalità.
