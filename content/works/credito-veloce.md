@@ -1,5 +1,6 @@
 +++
 date = 2020-10-15T22:00:00Z
+draft = true
 image = "/images/logo corto creditoveloce.svg"
 tag = ""
 title = "Credito Veloce!"
